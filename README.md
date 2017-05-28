@@ -6,11 +6,6 @@ Styling native HTML file inputs can be a pretty big pain, and to make matters wo
 
 Once integrated, react-file-input quickly eliminates the headaches associated with forms requiring file upload.
 
-## Installation - main version
-```sh
-npm install react-file-input
-```
-
 ## Installation - forked version
 ```sh
 npm install git+https://github.com/zulucoda/react-file-input.git --save
