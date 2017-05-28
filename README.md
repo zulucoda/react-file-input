@@ -11,7 +11,7 @@ Once integrated, react-file-input quickly eliminates the headaches associated wi
 npm install react-file-input
 ```
 
-## Installation - forked main version
+## Installation - forked version
 ```sh
 npm install git+https://github.com/zulucoda/react-file-input.git --save
 ```
